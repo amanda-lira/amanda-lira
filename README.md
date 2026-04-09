@@ -21,14 +21,6 @@ Atualmente, atuo na área de dados e suporte à engenharia na **Grendene**, cons
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
----
-
-### 📈 Meus Dados no GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=amanda-lira&show_icons=true&theme=dracula)](https://github.com/amanda-lira)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lira&layout=compact&langs_count=7&theme=dracula)](https://github.com/amanda-lira)
-
----
 
 ### 📂 Destaques do Meu Portfólio
 
