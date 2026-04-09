@@ -1,6 +1,6 @@
 # Olá, eu sou a Amanda Lira! 
 
-### 🚀 Transformando dados em soluções e automatizando processos corporativos
+### Transformando dados em soluções e automatizando processos corporativos
 
 Sou apaixonada por unir a tecnologia da informação com o chão de fábrica e a área de negócios. Com background em **Automação Industrial**, Pós-graduação em **Energias Renováveis** e cursando **Sistemas de Informação**, meu foco é resolver problemas complexos criando fluxos inteligentes e visualizações de dados estratégicas.
 
@@ -25,10 +25,8 @@ Atualmente, atuo na área de dados e suporte à engenharia na **Grendene**, cons
 
 ### 📈 Meus Dados no GitHub
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=amanda-lira&show_icons=true&theme=dracula)](https://github.com/amanda-lira)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lira&layout=compact&langs_count=7&theme=dracula)](https://github.com/amanda-lira)
 
 ---
 
