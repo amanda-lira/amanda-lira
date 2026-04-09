@@ -1,42 +1,50 @@
 # Olá, eu sou a Amanda Lira! 👋
 
-### Transformando dados em soluções e automatizando processos corporativos ⚙️📊
+### 🚀 Transformando dados em soluções e automatizando processos corporativos
 
-Sou apaixonada por unir a tecnologia da informação com o chão de fábrica e a área de negócios. Com base em **Automação Industrial**, Pós-graduação em **Energias Renováveis** e cursando **Sistemas de Informação**, meu foco é resolver problemas complexos criando fluxos inteligentes e visualizações de dados estratégicas.
+Sou apaixonada por unir a tecnologia da informação com o chão de fábrica e a área de negócios. Com background em **Automação Industrial**, Pós-graduação em **Energias Renováveis** e cursando **Sistemas de Informação**, meu foco é resolver problemas complexos criando fluxos inteligentes e visualizações de dados estratégicas.
 
-Atualmente, atuo na área de dados e suporte à engenharia na **Grendene**, construindo soluções com o ecossistema Microsoft e automatizando rotinas pesadas com Python e SQL.
+Atualmente, atuo na área de dados e suporte à engenharia na **Grendene**, construindo soluções com o ecossistema Microsoft e automatizando rotinas pesadas com Python e SQL para democratizar o acesso à informação.
 
 ---
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
+
+**Análise de Dados & Ecossistema Microsoft:**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-0078D4?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Linguagens & Banco de Dados:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-**Análise de Dados & Ecossistema Microsoft:**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Apps](https://img.shields.io/badge/Power_Apps-0078D4?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+---
+
+### 📈 Meus Dados no GitHub
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=amanda-lira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
-### 📂 O que você vai encontrar por aqui
+### 📂 Destaques do Meu Portfólio
 
-Meus repositórios funcionam como vitrines dos problemas que já resolvi, desde automações corporativas até análises de dados públicos. Destaques do meu portfólio:
+Meus repositórios funcionam como vitrines dos problemas reais que já resolvi, desde automações corporativas até análises de dados públicos:
 
-- 🌊 **[extrator-dados-funceme]**: Automação e Web Scraping com Power Query/Linguagem M no Excel para extrair históricos anuais de marés com 1 clique.
-- 📊 **[analise-mortalidade-crajubar]**: Análise de dados reais do SUS (2019-2023) nas cidades de Crato, Juazeiro do Norte e Barbalha utilizando Python e Jupyter Notebook.
-- 🦟 **[projeto-zika-estatistica]**: Projeto focado em estatística aplicada, analisando dados epidemiológicos do SINAN sobre a Zika.
-- 🏥 **[CliniSystem] & Banco de Dados**: Sistemas em Python para gerenciamento clínico integrado e projetos práticos de modelagem/extração de Bancos de Dados Reais.
-- ☕ **Desenvolvimento Orientado a Objetos**: Projetos acadêmicos em Java (como *Locadora_java* e *Fabrica-de-chocolate*) focados na aplicação de classes, herança e POO.
+- 🌊 **[Extrator de Tábua de Marés (FUNCEME)](https://github.com/amanda-lira/extrator-dados-funceme)**: Automação e Web Scraping com Power Query/Linguagem M no Excel para extrair históricos anuais de marés com 1 clique.
+- 📊 **[Análise de Mortalidade Crajubar](https://github.com/amanda-lira/analise-mortalidade-crajubar)**: Análise de dados reais do SUS (2019-2023) nas cidades de Crato, Juazeiro do Norte e Barbalha utilizando Python e Jupyter Notebook.
+- 🦟 **[Projeto Zika - Estatística](https://github.com/amanda-lira/projeto-zika-estatistica)**: Projeto focado em estatística aplicada, analisando dados epidemiológicos do SINAN sobre a Zika.
+- 🏥 **[CliniSystem](https://github.com/amanda-lira/CliniSystem)** & **[Extração BD](https://github.com/amanda-lira/trabalho-pratico-bdii-n1)**: Sistemas em Python para gerenciamento clínico integrado e projetos práticos de modelagem/extração de Bancos de Dados reais.
+- ☕ **[Desenvolvimento Java](https://github.com/amanda-lira/Locadora_java)**: Projetos orientados a objetos (como *Locadora_java* e *Fábrica de Chocolate*) focados na aplicação de classes e herança.
 
 ---
 
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-lira-ti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email_aqui@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandalyyra55@@gmail.com)
