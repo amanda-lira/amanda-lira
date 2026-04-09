@@ -1,4 +1,4 @@
-# Olá, eu sou a Amanda Lira! 👋
+# Olá, eu sou a Amanda Lira! 
 
 ### 🚀 Transformando dados em soluções e automatizando processos corporativos
 
@@ -26,8 +26,8 @@ Atualmente, atuo na área de dados e suporte à engenharia na **Grendene**, cons
 ### 📈 Meus Dados no GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=amanda-lira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -47,4 +47,3 @@ Meus repositórios funcionam como vitrines dos problemas reais que já resolvi, 
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-lira-ti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandalyyra55@@gmail.com)
